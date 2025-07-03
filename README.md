@@ -1,2 +1,1 @@
-# python-Day-1
-First day of python internship
+This rerpository contains tasks for my first python program
